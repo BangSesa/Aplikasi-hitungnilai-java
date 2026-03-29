@@ -4,6 +4,8 @@ Aplikasi **Hitung Nilai** berbasis **Android** yang digunakan untuk menghitung n
 
 Aplikasi ini dibuat menggunakan **Java** dengan antarmuka GUI (Graphical User Interface) dan menggunakan **FlatLaf** sebagai library untuk mempercantik tampilan aplikasi agar lebih modern.
 
+Download: https://bit.ly/4uYVS67
+
 ![Preview Website](index.jpeg)
 
 
